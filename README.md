@@ -31,3 +31,6 @@ Patient can create an account and take an appointment with a doctor. Patient can
 
 Appointment
 Users can schedule appointments. Every appointment has fields like patient, doctor, date, status, status message. The status and status message are set by the receptionist.
+
+                                                   Screenshots:
+                                                   
